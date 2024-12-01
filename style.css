@@ -2,7 +2,7 @@
 
 /*Styling for the navigation to float at the top of the page aligned to the left, with the list items in a row*/
 nav {
-	background-color: mediumpurple;
+	background-color: lightblue;
 	height: 100vh;
 	float: left;
 }
