@@ -7,3 +7,20 @@ nav {
 	float: left;
 }
 
+/*List items in the nav aligned to the left*/
+ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+/*Styling for the list items in the nav, with white boxes around the text*/
+li a {
+	color: darkslateblue;
+	padding: 1em 1.5em;
+	display: block;
+	margin: 5px;
+	background-color: white;
+	border-radius: 20px;
+	text-decoration: none;
+}
