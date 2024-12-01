@@ -21,6 +21,12 @@ li a {
 	display: block;
 	margin: 5px;
 	background-color: white;
-	border-radius: 20px;
+	border-radius: 10px;
 	text-decoration: none;
 }
+
+/*Hover effect for the list items in the nav*/
+	li a:hover {
+		background-color: lightgrey;
+		color: white;
+	}
